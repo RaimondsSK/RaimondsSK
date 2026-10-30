@@ -20,4 +20,5 @@ programmes and coordinated disclosure.
 - Cantina · Sherlock · Immunefi · HackenProof
 
 **Contact**
+- X: [@CryptoRunsun](https://x.com/CryptoRunsun)
 - Telegram: @cryptorunsun
